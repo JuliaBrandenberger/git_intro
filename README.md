@@ -1,1 +1,2 @@
 JuliaBrandenberger
+brandeju@oregonstate.edu
